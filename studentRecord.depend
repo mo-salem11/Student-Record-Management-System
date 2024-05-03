@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670238274 source:d:\myproject\code_blocks_probem\studentrecord\main.cpp
+	<iostream>
+	<fstream>
+
